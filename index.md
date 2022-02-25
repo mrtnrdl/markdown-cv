@@ -29,12 +29,16 @@ Penetration Testing, Red Teaming, OWASP, Cloud Security, Architecture and Code R
 
 ### Methodologies
 
-Agile, Scrum, Kanban, CI/CD, DevSecOps
+Agile,
+Scrum,
+Kanban,
+CI/CD,
+DevSecOps
 
 ### Certifications
 
-eJPT
-eCPPT
+eJPT,
+eCPPT,
 Professional SCRUM Master (PSM I)
 
 
@@ -46,15 +50,15 @@ __Bachelor of Science Informatik__, Hof University
 
 ## Publications
 
-`03/2020` - Blog: Gamified Security mit hackthebox.eu
+`03/2020` Blog: Gamified Security mit hackthebox.eu
 
-`03/2020` - Blog: Gamified Security mit hackthebox.eu: DevOops
+`03/2020` Blog: Gamified Security mit hackthebox.eu: DevOops
 
-`09/2020` - Whitepaper: Security in Zeiten von Cloud Native
+`09/2020` Whitepaper: Security in Zeiten von Cloud Native
 
-`03/2021` - Blog: Malware-Analyse: Einrichtung von Cuckoo Sandbox auf ProxMox
+`03/2021` Blog: Malware-Analyse: Einrichtung von Cuckoo Sandbox auf ProxMox
 
-`06/2021` - Blog: Penetration Testing in die Cloud skalieren mit Axiom
+`06/2021` Blog: Penetration Testing in die Cloud skalieren mit Axiom
 
 
 ## Occupation
