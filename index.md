@@ -1,91 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: martin riedel's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# martin riedel
+IT Security x Software Development and Architecture
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mail@mrtnrdl.de">mail@mrtnrdl.de</a>
+| <a href="https://blog.mrtnrdl.de">blog</a>
+| <a href="https://github.com/mrtnrdl">github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Senior IT Security Consultant - Penetration Testing, Trainings, AppSec, CloudSec, MobileSec
 
 
-### Research interests
+## Tools, Techniques and Procedures
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Toolset
+
+Linux, Windows, macOs, Golang, Python, Rust, Docker, Bash, BurpSuite, gobuster, nmap, Axiom, Azure, AWS, GCP, kubernetes, ffuf, Kali Linux, 
+
+### IT Security
+
+Penetration Testing, Red Teaming, OWASP, Cloud Security, Architecture and Code Reviews, Data Exfiltration, OSINT, Network Security, Reverse Engineering, Binary Exploitation, Mobile Security, Wep App Security, Application Security, Threat Modelling
+
+### Methodologies
+
+Agile, Scrum, Kanban, CI/CD, DevSecOps
+
+### Certifications
+
+eJPT
+eCPPT
+Professional SCRUM Master (PSM I)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2009/01 - 2013/01`
+__Bachelor of Science Informatik__, Hof University
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`03/2020` - Blog: Gamified Security mit hackthebox.eu
 
-### Journals
+`03/2020` - Blog: Gamified Security mit hackthebox.eu: DevOops
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`09/2020` - Whitepaper: Security in Zeiten von Cloud Native
 
-`1669`
-Lectiones opticæ.
+`03/2021` - Blog: Malware-Analyse: Einrichtung von Cuckoo Sandbox auf ProxMox
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`06/2021` - Blog: Penetration Testing in die Cloud skalieren mit Axiom
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2011/01 - 2013/03`
+__Werkstudent Softwareentwickler, Vogler Engineering__ Hof/Saale
 
-- Warden
-- Minted coins
+`2013/05 - 03/2015`
+__Software Engineer, Capgemini__, Nürnberg
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015/04 - 2017/08`
+__Software Engineer Lead, Capgemini__, Nürnberg
+
+`2017/09 - 2018/12`
+__IT Consultant, codecentric AG__, Nürnberg
+
+`2019/01 - 2019/12`
+__IT Security Consultant, codecentric AG__, Nürnberg
+
+`2020/01 - now`
+__Senior IT Security Consultant, codecentric AG__, Hamburg
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2022-->
 
 
